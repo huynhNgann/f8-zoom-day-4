@@ -57,13 +57,12 @@ a {
 body.body-cv {
     background-color: #a47674;
 }
-
 .container.cv {
     max-width: 804px;
     min-height: 900px;
     padding: 25px 70px 0px;
     background-color: hsl(0, 0%, 100%);
-    margin-top: 5px;
+    margin-top: 25px;
 }
 
 .cv-header {
