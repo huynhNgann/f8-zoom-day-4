@@ -141,14 +141,16 @@ body.body-cv {
 }
 
 .container.menu {
-    width: 100%;
     margin-top: 20px;
     background-color: #3f5cca;
     padding: 0 40px;
+    text-align: justify;
 }
 
 .container.menu ul {
     list-style-type: none;
+    width: 100%;
+    height:0;
 }
 
 .container.menu ul li {
